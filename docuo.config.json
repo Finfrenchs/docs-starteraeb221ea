@@ -3,16 +3,19 @@
   "favicon": "image/favicon.ico",
   "themeConfig": {
     "navbar": {
-      "title": "My project",
+      "title": "Learning",
       "logo": "image/logo.png",
       "items": [
         {
           "type": "docSidebar",
-          "sidebarIds": ["mySidebar"],
+          "sidebarIds": [
+            "mySidebar"
+          ],
           "label": "Documentation",
           "position": "left"
         }
-      ]
+      ],
+      "iconRedirectUrl": ""
     },
     "footer": {
       "logo": "image/logo.png",
