@@ -3,8 +3,8 @@
   "favicon": "image/favicon.ico",
   "themeConfig": {
     "navbar": {
-      "title": "Learning",
-      "logo": "image/logo.png",
+      "title": "Learning%20With%20Kelvin",
+      "logo": "https://media-resource.spreading.io/docuo/workspace273/7c1e1778ff609348bbe41a66d867ab29/logo.png",
       "items": [
         {
           "type": "docSidebar",
